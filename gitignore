@@ -1,1 +1,11 @@
+# Ignore node modules
 node_modules/
+
+# Ignore WhatsApp session folders
+sessions/
+
+# Ignore environment variable files if you want (optional)
+# .env
+
+# Ignore logs and temp files
+*.log
